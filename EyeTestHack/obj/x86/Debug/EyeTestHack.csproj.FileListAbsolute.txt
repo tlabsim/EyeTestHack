@@ -1,0 +1,7 @@
+E:\My Workspaces\Current\EyeTestHack\EyeTestHack\bin\Debug\EyeTestHack.exe
+E:\My Workspaces\Current\EyeTestHack\EyeTestHack\bin\Debug\EyeTestHack.pdb
+E:\My Workspaces\Current\EyeTestHack\EyeTestHack\obj\x86\Debug\EyeTestHack.Form1.resources
+E:\My Workspaces\Current\EyeTestHack\EyeTestHack\obj\x86\Debug\EyeTestHack.exe
+E:\My Workspaces\Current\EyeTestHack\EyeTestHack\obj\x86\Debug\EyeTestHack.pdb
+E:\My Workspaces\Current\EyeTestHack\EyeTestHack\obj\x86\Debug\EyeTestHack.csprojResolveAssemblyReference.cache
+E:\My Workspaces\Current\EyeTestHack\EyeTestHack\obj\x86\Debug\EyeTestHack.csproj.GenerateResource.Cache
